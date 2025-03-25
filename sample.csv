@@ -1,0 +1,4 @@
+first_name,dob,address,phoneNumber,state,zipCode,email,gender,userType
+Prabhu,1999-06-21,Tamilnadu,9876543210,Tamilnadu,10001,prabhu@gmail.com,Male,Customer
+Amit,1992-05-14,Karnataka,9876512345,Karnataka,560001,amit@gmail.com,Male,Agent
+Anjali,1985-12-30,Delhi,9812345678,Delhi,110001,anjali@gmail.com,Female,Customer
